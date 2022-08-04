@@ -153,6 +153,17 @@
 
 [Swagger-документация](https://app.swaggerhub.com/apis/zorki2020/CH3/1.0)
 
-| Attempt | #1  | #2  |
+#### Rate
+| Поле (атрибут) | Тип  | Описание |
 | :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| rate_id | int | Идентификатор тарифа |
+| name_rate | string | Название тарифа |
+| action | string | Действие |
+| availability_rate | boolean | Доступность тарифа |
+| price_rate | string | Список тарифов |
+
+
+
+
+
+
